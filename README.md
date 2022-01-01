@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Ariel Rodrigues aspirante a DEV.
+### Olá!! Eu sou o Ariel Rodrigues, aspirante a desenvolvedor e amante de tecnologia.
 
 - 🌱 Estudando Desenvolvimento FullStack,
 - 😄 Pronomes: ele/dele.
