@@ -1,7 +1,12 @@
-### Olá!! Eu sou o Ariel Rodrigues, aspirante a desenvolvedor e amante de tecnologia.
+### Olá!! Eu sou o Ariel Rodrigues :)
 
-- 🌱 Estudando Desenvolvimento FullStack,
-- 😄 Pronomes: ele/dele.
+function dev(name, age) {
+        this.name = name;
+        this.age = age;
+      }
+      let arielRodrigues = new dev('Ariel Rodrigues', 22);
+      console.log(arielRodrigues);
+
 
 <div align="center">
   <a href="https://github.com/99arielsr">
