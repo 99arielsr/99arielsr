@@ -1,10 +1,11 @@
-### Olá!! Eu sou o Ariel Rodrigues :)
-
-function dev(name, age) {
+### :smile: Hi! This is me:
+      
+      function dev(name, age, work) {
         this.name = name;
         this.age = age;
+        this.work = work;
       }
-      let arielRodrigues = new dev('Ariel Rodrigues', 22);
+      let arielRodrigues = new dev('Ariel Rodrigues', 22, 'Student');
       console.log(arielRodrigues);
 
 
