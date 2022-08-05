@@ -5,7 +5,7 @@
         this.age = age;
         this.work = work;
       }
-      let arielRodrigues = new dev('Ariel Rodrigues', 22, 'Student');
+      let arielRodrigues = new dev('Ariel Rodrigues', 23, 'Student');
       console.log(arielRodrigues);
 
 
